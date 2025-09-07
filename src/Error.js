@@ -13,7 +13,8 @@ const Error = () => {
           <p>
             The Page you are looking for does not exist. How you got here is a
             mystery. But you can click the Button below to go Back to the
-            homepage
+            homepage 
+          lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, id.
           </p>
           <NavLink to='/'>
             <Button>Go Back To HomePage</Button>
